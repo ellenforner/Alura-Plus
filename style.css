@@ -42,3 +42,18 @@ body{
     text-decoration: none;
     margin-bottom: 1em;
 }
+
+.botao_secundario{
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
+}
+
+.container_aviso{
+    font-size: 12px;
+    color: var(--cinza-secundario);
+}
+
+.container_titulo{
+    font-size: 28px;
+    font-weight: 700;
+}
