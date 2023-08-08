@@ -7,7 +7,7 @@
     --fonte-principal: "Inter";
 }
 
-*{
+{
     margin: 0;
     padding: 0;
 }
@@ -68,7 +68,7 @@ body{
 }
 
 .imagem_secundario {
-    width: 80% 
+    width: 80%; 
 }
 
 .secundario {
